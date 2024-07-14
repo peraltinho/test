@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Pokémon 24h
+http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Um Maluco no Pedaço 24h
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",2 Homens e Meio 24h
+http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Todo Mundo Odeia O Cris 24h
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",A Grande Família 24h
+http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Eu a Patroa e as Crianças 24h
+http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Tô d Graça 24h
+http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Standup 24h
+http://24hrs.homelinux.com:8080/24H-standup/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Friends 24h
+http://24hrs.homelinux.com:8080/24H-friends/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Drake EJosh 24h
+http://24hrs.homelinux.com:8080/24H-drakeejosh/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | ANIMES & GEEK",Dragon Ball
+http://24hrs.homelinux.com:8080/24H-dragon.ball/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | ANIMES & GEEK",Dragon Ball Z
+http://24hrs.homelinux.com:8080/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | ANIMES & GEEK",Dragon Ball Super
+http://24hrs.homelinux.com:8080/24H-dragon.ball.super/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | ANIMES & GEEK",Dragon Ball GT
+http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Boruto 24h
+http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",Futurama
+http://24hrs.homelinux.com:8080/24H-futurama/index.m3u8
